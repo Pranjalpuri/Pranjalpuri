@@ -1,0 +1,64 @@
+In [4]:
+x=2
+y=5
+xy='hey'
+print(x+y,xy)
+7 hey
+
+In [5]:
+print("""my name is pranjal puri I am from delhi
+I love python""")
+
+my name is pranjal puri I am from delhi
+I love python
+
+In [6]:
+
+string1='world'
+print('hello',string1)
+
+string2='!'
+print('hello',string1,string2)
+
+hello world
+hello world !
+
+In [7]:
+
+print('hello'+string1+string2)
+
+helloworld!
+
+In [8]:
+
+print("jan\nfeb\nmar\napr\njun\njul\naug")
+jan
+feb
+mar
+apr
+jun
+jul
+aug
+
+In [9]:
+
+print("I want\\n to be printed.")
+I want\n to be printed.
+
+In [10]:
+
+x=10
+print(type(x))
+
+s='abc'
+print(type(s))
+
+value=true
+print(type(value)
+
+percent=90.00
+type(percent)
+  File "/data/user/0/ru.iiec.pydroid3/cache/ipykernel_31346/3167748265.py", line 10
+    percent=90.00
+    ^
+SyntaxError: invalid syntax
